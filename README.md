@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Horned Beasts
+- Project:
+  - Display Images
+  - Give Images Titles
+  - Have associated Description
+  - Create entire page content within react 
+
+Author:
+- Samuel Panek
+
+
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
